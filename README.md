@@ -1,6 +1,6 @@
-Here’s a **single-terminal-ready README** you can copy and paste directly:
 
-```markdown
+
+
 # Real-Time Background Removal using Computer Vision
 
 This project demonstrates **background removal** from both **static images** and **real-time video streams (webcam)** using **YOLOv8-segmentation** (`yolo11n-seg.pt`) and OpenCV. It leverages **instance segmentation** to detect objects and isolate them with transparency while removing the background.
@@ -13,7 +13,7 @@ This project demonstrates **background removal** from both **static images** and
 - Lightweight & fast (`yolo11n-seg.pt`)
 
 ## Project Structure
-```
+
 
 .
 ├── image\_background\_remove.py   # Background removal from static images
@@ -21,14 +21,13 @@ This project demonstrates **background removal** from both **static images** and
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Documentation
 
-````
 
 ## Installation
 1. Clone the repository:
-```bash
+bash
 git clone https://github.com/arif124713/real-time-background-remove-using-Computer-vision.git
 cd real-time-background-remove-using-Computer-vision
-````
+
 
 2. Create a virtual environment (recommended):
 
