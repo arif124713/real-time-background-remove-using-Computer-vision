@@ -15,19 +15,19 @@ This project demonstrates **background removal** from both **static images** and
 ## Project Structure
 
 
-.
+```
 ├── image\_background\_remove.py   # Background removal from static images
 ├── video\_background\_remove.py   # Real-time background removal (webcam)
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Documentation
-
+```
 
 ## Installation
 1. Clone the repository:
-bash
+```bash
 git clone https://github.com/arif124713/real-time-background-remove-using-Computer-vision.git
 cd real-time-background-remove-using-Computer-vision
-
+```
 
 2. Create a virtual environment (recommended):
 
@@ -107,7 +107,4 @@ pip install opencv-python numpy ultralytics
 
 Feel free to fork, improve, or create pull requests! Contributions are welcome.
 
-```
 
-I can also **write a ready-to-use `requirements.txt`** for your repo so anyone can install everything with a single command. Do you want me to do that?
-```
